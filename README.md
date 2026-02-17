@@ -3,8 +3,8 @@
 <p align="center">
   <a href="mailto:nitishsaini044@gmail.com"><img src="https://img.shields.io/badge/Email-nitishsaini044%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/nitishsaini-44"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/nitishsaini"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://hub.docker.com/u/nitishsaini-44"><img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker"></a>
+  <a href="https://www.linkedin.com/in/nitish-saini-124a9536a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://hub.docker.com/u/nitishssaini"><img src="https://img.shields.io/badge/Docker-Hub-2496ED?style=flat-square&logo=docker"></a>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
   <a href="mailto:nitishsaini044@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nitishsaini">
+  <a href="https://www.linkedin.com/in/nitish-saini-124a9536a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/nitishsaini-44">
